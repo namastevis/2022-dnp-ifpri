@@ -20,6 +20,6 @@ Sample PDFs: Please check the folder "sample_dnp" for one from each type.
 Note:
 - Check the documentation and style guide pdf for more details and previous versions.
 
-Citation: Singh. N., P.H. Nguyen, A. Pant, A. Christopher, M. Jangid, S.K. Singh, R. Sarwal, N. Bhatia, R. Johnston, W. Joe, and P. Menon. 2022. District Nutrition Profile: <District>, <State>. New Delhi, India: International Food Policy Research Institute.
+Citation: Singh. N., P.H. Nguyen, A. Pant, A. Christopher, M. Jangid, S.K. Singh, R. Sarwal, N. Bhatia, R. Johnston, W. Joe, and P. Menon. 2022. District Nutrition Profile: District, State. New Delhi, India: International Food Policy Research Institute.
 
 Acknowledgement: Financial support was provided by the Bill & Melinda Gates Foundation through POSHAN, led by the International Food Policy Research Institute. We thank **Amit Jena** (Independent Researcher) for design and programming support and IFPRI research analysts for cross checks.
